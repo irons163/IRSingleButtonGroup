@@ -13,7 +13,7 @@
 
 ## Install
 ### Cocoapods
-- Add `pod 'IRPopupMenu'`  in the `Podfile`
+- Add `pod 'IRSingleButtonGroup'`  in the `Podfile`
 - `pod install`
 
 ## Usage
