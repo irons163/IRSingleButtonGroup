@@ -4,6 +4,7 @@
 # IRSingleButtonGroup 
 
 - IRSingleButtonGroup is a powerful buttons group framework for iOS.
+- See swift version in here: [IRSingleButtonGroup-swift](https://github.com/irons163/IRSingleButtonGroup-swift).
 
 ## Features
 
